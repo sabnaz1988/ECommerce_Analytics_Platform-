@@ -6,6 +6,20 @@ ShopSphere is an end-to-end e-commerce analytics project developed to explore sa
 
 The project uses Python for exploratory data analysis and data quality checks, Google BigQuery for SQL-based analysis, and Power BI to build an interactive, three-page business intelligence dashboard.
 
+## Dashboard Preview
+
+### 1. Executive Overview
+
+![Executive Overview](screenshots/01_executive_overview.png)
+
+### 2. Product Performance
+
+![Product Performance](screenshots/02_product_performance.png)
+
+### 3. Customer and Regional Analysis
+
+![Customer and Regional Analysis](screenshots/03_customer_regional_analysis.png)
+
 ## Business Questions
 
 This project investigates five key business questions:
