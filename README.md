@@ -75,7 +75,7 @@ The dashboard contains three pages:
 3. **Customer & Regional Analysis** — customer segments, regional revenue and country-level geographic analysis.
 
 ## Project Structure
-
+```text
 ECommerce_Analytics_Platform-/
 ├── PowerBI/
 │   └── ShopSphere_ECommerce_Analytics.pbix
@@ -97,6 +97,8 @@ ECommerce_Analytics_Platform-/
 │   └── 07_discount_analysis.sql
 ├── .gitignore
 └── README.md
+```
+Note: The raw_data/ folder is excluded from the public repository through .gitignore.
 
 ## Business Recommendations
 
