@@ -76,19 +76,27 @@ The dashboard contains three pages:
 
 ## Project Structure
 
-```text
 ECommerce_Analytics_Platform-/
-├── raw_data/
-├── python/
-├── sql/
+├── PowerBI/
+│   └── ShopSphere_ECommerce_Analytics.pbix
 ├── docs/
+│   └── business_analysis.md
+├── python/
+│   └── explore_data.py
 ├── screenshots/
 │   ├── 01_executive_overview.png
 │   ├── 02_product_performance.png
 │   └── 03_customer_regional_analysis.png
-├── ShopSphere_ECommerce_Analytics_Dashboard.pbix
+├── sql/
+│   ├── 01_data_quality_checks.sql
+│   ├── 02_overall_kpis.sql
+│   ├── 03_revenue_profit_trends.sql
+│   ├── 04_product_category_analysis.sql
+│   ├── 05_customer_segment_analysis.sql
+│   ├── 06_regional_analysis.sql
+│   └── 07_discount_analysis.sql
+├── .gitignore
 └── README.md
-```
 
 ## Business Recommendations
 
